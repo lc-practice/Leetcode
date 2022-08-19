@@ -10,3 +10,4 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[`Array`,`String`](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings)|[Medium](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings/43)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[`Array`,`String`](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings)|[Medium](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings/48)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[`Array`,`DP`](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings)|[Medium](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings/55)|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[`BFS`](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings)|[Medium](https://github.com/lc-practice/Leetcode/tree/main/Arrays%20and%20Strings/112)|
